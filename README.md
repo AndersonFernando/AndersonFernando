@@ -1,6 +1,6 @@
 ### Olá!!! Me chamo Anderson Fernando 👋
 
-- 🌱 Estudando Sql e WEB
+- 🌱 Estudando Base de Dados Sql e WEB
 - 🔭 Aprimorando JavaScript
 
 <div align="center">
